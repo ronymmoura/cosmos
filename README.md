@@ -1,1 +1,1 @@
-# cosmos-api
+# cosmos
